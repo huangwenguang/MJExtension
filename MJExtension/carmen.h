@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface carmen : JSBaseViewController
+@interface carmen : NSObject
 
 @end
